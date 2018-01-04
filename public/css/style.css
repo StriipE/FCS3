@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("../images/FCS3-bg-wide.png");
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.centered {
+	text-align: center;
+	font-family: courier;
+	color: #ffffff; 
+	background-color: #000000;
+}
